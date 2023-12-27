@@ -36,7 +36,7 @@ Open RPG - Ai Adventure Kit is your gateway to boundless creativity in the world
 
 ## Get Started
 
-Are you ready to embark on your AI-powered RPG adventure? Head over to the [documentation](#link-to-documentation) to get started.
+Are you ready to embark on your AI-powered RPG adventure? Head over to the [documentation](https://github.com/babycommando/openRPG-ai-adventure-kit/wiki/Adventure-Kit-WIKI) to get started.
 
 ---
 
