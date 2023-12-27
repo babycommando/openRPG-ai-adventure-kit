@@ -1,6 +1,6 @@
 ![DALL·E 2023-12-27 00 02 51 - A dramatic 80s heavy metal style illustration for an RPG logo, titled 'Open RPG - AI Adventure Kit'  The design should be rich with classic heavy meta](https://github.com/babycommando/openRPG-ai-adventure-kit/assets/71618056/46440cc5-fb67-4af3-b6d3-27773a445ef0)
 
-# 🧝 Open RPG - Ai Adventure Kit (Beta Coming Soon)
+# Open RPG - Ai Adventure Kit (Beta Coming Soon)
 
 🔥 **Build entire universes by bending large language models at your will!** 🔥
 
