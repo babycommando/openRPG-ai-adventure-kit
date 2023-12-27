@@ -2,6 +2,8 @@
 
 # Open RPG - Ai Adventure Kit Beta
 
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 🔥 **Build entire universes by bending large language models at your will!** 🔥
 
 Unleash your imagination and embark on a quest into the realms of AI-powered role-playing adventure. Open RPG - Ai Adventure Kit is a free and open-source treasure trove for creative minds, dedicated to shaping entire universes with the might of large language models.
